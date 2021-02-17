@@ -1,8 +1,8 @@
 # Leetcode Solutions
 
-제가 푼 코드와 Discussions에 있는 더 좋은 코드들을 모아봤습니다 :)
-Difficulty: **Easy**
-Order by: Frequency (순서는 바뀔 수 있습니다) 
+제가 푼 코드와 Discussions에 있는 더 좋은 코드들을 모아봤습니다 :)  
+Difficulty: **Easy**  
+Order by: Frequency (순서는 바뀔 수 있습니다)  
 
 |Title|Acceptance|Must-do|
 |-----|----------|---------|
